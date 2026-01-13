@@ -1,4 +1,4 @@
-## Hi there, I'm Jaya 👋  
+## Hi there, I'm Jay 👋  
 
 Cloud Engineer | Azure Architect | Platform Modernisation Enthusiast  
 
